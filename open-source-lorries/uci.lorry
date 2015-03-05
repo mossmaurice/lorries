@@ -1,0 +1,6 @@
+{
+    "uci": {
+        "type": "git",
+        "url": "git://nbd.name/uci.git"
+    }
+}

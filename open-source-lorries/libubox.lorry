@@ -1,0 +1,6 @@
+{
+    "libubox": {
+        "type": "git",
+        "url": "git://git.openwrt.org/project/libubox.git"
+    }
+}

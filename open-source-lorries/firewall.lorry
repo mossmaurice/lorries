@@ -1,0 +1,6 @@
+{
+    "firewall": {
+        "type": "git",
+        "url": "git://nbd.name/firewall3.git"
+    }
+}

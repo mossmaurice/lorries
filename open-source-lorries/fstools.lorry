@@ -1,0 +1,6 @@
+{
+    "fstools": {
+        "type": "git",
+        "url": "git://nbd.name/fstools.git"
+    }
+}

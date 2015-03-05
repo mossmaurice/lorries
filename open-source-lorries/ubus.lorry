@@ -1,0 +1,6 @@
+{
+    "ubus": {
+        "type": "git",
+        "url": "git://nbd.name/luci2/ubus.git"
+    }
+}

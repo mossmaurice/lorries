@@ -1,0 +1,6 @@
+{
+    "netifd": {
+        "type": "git",
+        "url": "http://git.openwrt.org/project/netifd.git"
+    }
+}
